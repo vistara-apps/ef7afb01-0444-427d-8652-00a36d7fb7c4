@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "AlphaCaller",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-6d7fb7c4-n2bn.vercel.app",
+    "imageUrl": "https://alphacaller-mkhe.vercel.app/image.png",
+    "splashImageUrl": "https://alphacaller-mkhe.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-6d7fb7c4-n2bn.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "AlphaCaller is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://alphacaller-mkhe.vercel.app/screenshot1.png",
+      "https://alphacaller-mkhe.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://alphacaller-mkhe.vercel.app/hero.png",
+    "tagline": "AlphaCaller",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "AlphaCaller",
+    "ogDescription": "AlphaCaller is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://alphacaller-mkhe.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+AlphaCaller+at+https%3A%2F%2Falphacaller-mkhe.vercel.app"
+  }
+}
