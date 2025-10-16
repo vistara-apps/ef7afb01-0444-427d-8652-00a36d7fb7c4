@@ -1,0 +1,25 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJhbHBoYWNhbGxlci5hcHAifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "AlphaCaller",
+    "homeUrl": "https://alphacaller.app",
+    "iconUrl": "https://alphacaller.app/icon.png",
+    "splashImageUrl": "https://alphacaller.app/splash.png",
+    "splashBackgroundColor": "#0a1628",
+    "webhookUrl": "https://alphacaller.app/api/webhook",
+    "subtitle": "Track Top Memecoin Callers",
+    "description": "Identify and track top memecoin callers with objective performance analytics. Get real-time alerts and curated insights.",
+    "primaryCategory": "finance",
+    "tags": ["memecoin", "crypto", "trading", "analytics", "defi"],
+    "heroImageUrl": "https://alphacaller.app/hero.png",
+    "tagline": "Find Alpha, Track Performance",
+    "ogTitle": "AlphaCaller - Track Top Memecoin Callers",
+    "ogDescription": "Discover and track the best memecoin callers with objective performance metrics",
+    "ogImageUrl": "https://alphacaller.app/og.png"
+  }
+}
